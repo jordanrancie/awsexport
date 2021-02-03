@@ -1,0 +1,14 @@
+{
+  "name": "awsexport",
+  "version": "1.0.0",
+  "description": "Export aws json to environment vars",
+  "main": "bin/index.js",
+  "bin": {
+    "awsexport": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Rancie <jordan@freebank.io>",
+  "license": "ISC"
+}
